@@ -1,0 +1,7 @@
+/home/eone/PA/tema2_finala/_utils/coding_style/check_cpp.py:57: DeprecationWarning: module 'sre_compile' is deprecated
+  import sre_compile
+Done processing ./_utils/verif.cpp
+Done processing ./ferate.cpp
+Done processing ./magazin.cpp
+Done processing ./supercomputer.cpp
+Done processing ./teleportare.cpp
